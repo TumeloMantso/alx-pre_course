@@ -1,7 +1,0 @@
-My first readme
-
-
-
-
-clear
-
